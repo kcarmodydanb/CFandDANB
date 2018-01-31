@@ -1,21 +1,28 @@
 # CFandDANB
-Catalyst Fire and DANB SQL
 
-This is a note keeping file to help with understanding how CF and DANB was able to create modules pertinent to their business process
+<p>This is a note keeping file to help with understanding how CF and DANB was able to create modules pertinent to their business process.</p>
 
-<p>Schemas</p>
-VW - views
+<h3>Schemas</h3>
+  <ul>
+    <li>VW - views
+  </ul>
 
-Institution
-DANB - Dental Assisting National Board
+<h3>Institution</h3>
+  <ul>
+    <li>DANB - Dental Assisting National Board
+  </ul>
 
-Module
-CUST - Customer
-EXM - Exams
-SBM - Submitals
+<h3>Module</h3>
+  <ul>
+    <li>CUST - Customer
+    <li>EXM - Exams
+    <li>SBM - Submitals
+  </ul>
 
-Data
-Exams - 
-Attribute -
-Submittal - 
-Customer - 
+<h3>Data</h3>
+  <ul>
+    <li>Exams - 
+    <li>Attribute -
+    <li>Submittal - 
+    <li>Customer - 
+  </ul>
