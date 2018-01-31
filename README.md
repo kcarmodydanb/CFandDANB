@@ -3,7 +3,7 @@ Catalyst Fire and DANB SQL
 
 This is a note keeping file to help with understanding how CF and DANB was able to create modules pertinent to their business process
 
-Schemas
+<p>Schemas</p>
 VW - views
 
 Institution
