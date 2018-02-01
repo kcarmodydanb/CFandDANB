@@ -1,5 +1,6 @@
 This is a note keeping file to help with understanding how CF and DANB was able to create modules pertinent to their business process.
 
+We decided that we would follow a naming convention: Schema_Institution_Module_DataDescription, e.g. VW_DANB_EXM_EXAM
 
 #### Schemas
 - VW - views
@@ -18,7 +19,7 @@ This is a note keeping file to help with understanding how CF and DANB was able 
 - SBM - Submitals
 
 
-#### Data
+#### Data Description
 - Exams -
 - Attribute -
 - Submittal -
@@ -29,4 +30,5 @@ This is a note keeping file to help with understanding how CF and DANB was able 
 
 I hope this helps.
 
-Cheers, DANB and CF
+Cheers,
+DANB and CF Team
