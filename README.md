@@ -33,16 +33,16 @@ We decided that we would follow a naming convention: Schema_Institution_Module_D
 
 
 ## to do's
-- [x] did this work?
+- [x] did this work? cmonnnn
 - [] clean up submittal views in Apex
 - [] what is certification aps for 1100? Do we want to designate 1100 - 1199 for certification apps?
 - []
 
 ##### Helpful links:
- https://guides.github.com/features/mastering-markdown/
- https://www.gitkraken.com/
- https://www.sublimetext.com/
- https://atom.io/
+- https://guides.github.com/features/mastering-markdown/
+- https://www.gitkraken.com/
+- https://www.sublimetext.com/
+- https://atom.io/
 
 
 
