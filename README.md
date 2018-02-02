@@ -28,15 +28,11 @@ We decided that we would follow a naming convention: Schema_Institution_Module_D
 
 
 <<<<<<< HEAD
-### Apex Number Designation
-=======
-###Apex Number Designation
->>>>>>> master
+### Apex Page Number Designation
  - Submitals 1200 - 1299
- -
 
 
-<<<<<<< HEAD
+
 ## to do's
 - [x] did this work? cmonnnn
 - [] clean up submittal views in Apex
@@ -48,18 +44,7 @@ We decided that we would follow a naming convention: Schema_Institution_Module_D
 - https://www.gitkraken.com/
 - https://www.sublimetext.com/
 - https://atom.io/
-=======
-##to do's
- - [] clean up submittal views in Apex
- - [] what is certification aps for 1100? Do we want to designate 1100 - 1199 for certification apps?
- - []
 
-#####Helpful links:
- https://guides.github.com/features/mastering-markdown/
- https://www.gitkraken.com/
- https://www.sublimetext.com/
- https://atom.io/
->>>>>>> master
 
 
 
