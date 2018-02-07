@@ -28,7 +28,10 @@ We decided that we would follow a naming convention: Schema_Institution_Module_D
 
 
 #### Apex Page Number Designation
+ - Customer Attributes 1000 - 1099
+ - Certification Applications 1100 - 1199
  - Submitals 1200 - 1299
+ -
 
 
 
