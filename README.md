@@ -1,5 +1,19 @@
 This is a note keeping file to help with understanding how CF and DANB was able to create modules pertinent to their business process.
 
+
+#### Access to Crystal 
+
+Granting Access to VIEWS for Crystal Report 
+
+Syntax: 
+GRANT SELECT ON <name_of_view> TO <user>
+
+exmaple
+GRANT SELECT ON VW_DANB_CEN_CUST_CUSTOMER TO BUSOBJ
+GRANT SELECT ON VW_DANB_CEN_CUST_CUSTOMER TO DANBRPT
+GRANT SELECT ON VW_DANB_CEN_CUST_CUSTOMER TO DALERPT
+
+
 We decided that we would follow a naming convention: Schema_Institution_Module_DataDescription, e.g. VW_DANB_EXM_EXAM
 
 
